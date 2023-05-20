@@ -13,3 +13,6 @@ def test_function(x):
     y_2 = x ** 2
     if x == 2:
         return y_2
+    elif x == 3:
+        return x ** 3
+    
