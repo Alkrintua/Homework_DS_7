@@ -17,3 +17,9 @@ def test_function(x):
         return x ** 3
     elif x == 4:
         return x ** 4
+
+def py_charm(x):
+    if x == 5:
+        return x ** 5
+    else:
+        return x
