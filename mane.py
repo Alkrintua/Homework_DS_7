@@ -8,5 +8,6 @@ def mane_function(x):
         return x * 4
     elif x == 5:
         return x * 5
-        
+    elif x == 6:
+        return x * 6    
         
