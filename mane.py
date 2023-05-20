@@ -21,5 +21,7 @@ def test_function(x):
 def py_charm(x):
     if x == 5:
         return x ** 5
+    elif x == 100:
+        return 10
     else:
         return x
