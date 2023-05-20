@@ -15,4 +15,5 @@ def test_function(x):
         return y_2
     elif x == 3:
         return x ** 3
-    
+    elif x == 4:
+        return x ** 4
